@@ -54,14 +54,14 @@
         {
             "id": "DailyAzkar",
             "title": "Daily Azkar",
-            "folder": "daily azkar",
+            "folder": "daily_azkar",
             "items": [
                 {
-                    "file": "azkar_morning.mp3",
+                    "file": "azkar_sabah.mp3",
                     "name": "Morning Azkar (أذكار الصباح)"
                 },
                 {
-                    "file": "azkar_evening.mp3",
+                    "file": "azkar_masaa.mp3",
                     "name": "Evening Azkar (أذكار المساء)"
                 }
             ]
@@ -82,6 +82,10 @@
                 {
                     "file": "heart_unburdening.mp3",
                     "name": "Heart Unburdening"
+                },
+                {
+                    "file": "qayam_allyel.mp3",
+                    "name": "Qiyam Al-Layl (Full)"
                 }
             ]
         },
