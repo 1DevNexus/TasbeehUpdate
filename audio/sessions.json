@@ -48,6 +48,21 @@
             ]
         },
         {
+            "id": "DailyAzkar",
+            "title": "Daily Azkar",
+            "folder": "daily azkar",
+            "items": [
+                {
+                    "file": "azkar_morning.mp3",
+                    "name": "Morning Azkar (أذكار الصباح)"
+                },
+                {
+                    "file": "azkar_evening.mp3",
+                    "name": "Evening Azkar (أذكار المساء)"
+                }
+            ]
+        },
+        {
             "id": "Qiyam",
             "title": "Qiyam Al-Layl",
             "folder": "Qiyam",
