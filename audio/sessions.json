@@ -7,47 +7,58 @@
             "items": [
                 {
                     "file": "subhan_allah.mp3",
-                    "name": "Subhan Allah"
+                    "name": "Subhan Allah",
+                    "size": "2.5 MB"
                 },
                 {
                     "file": "hamd_allah.mp3",
-                    "name": "Alhamdulillah"
+                    "name": "Alhamdulillah",
+                    "size": "2.8 MB"
                 },
                 {
                     "file": "allah_akbar.mp3",
-                    "name": "Allahu Akbar"
+                    "name": "Allahu Akbar",
+                    "size": "2.6 MB"
                 },
                 {
                     "file": "la_illah_ela_allah.mp3",
-                    "name": "La ilaha illa Allah"
+                    "name": "La ilaha illa Allah",
+                    "size": "3.1 MB"
                 },
                 {
                     "file": "astgfur_allah.mp3",
-                    "name": "Astaghfirullah"
+                    "name": "Astaghfirullah",
+                    "size": "2.4 MB"
                 },
                 {
                     "file": "la_haoul_wla_qout_ella_beallah.mp3",
-                    "name": "La Hawla Wa La Quwwata"
+                    "name": "La Hawla Wa La Quwwata",
+                    "size": "3.5 MB"
                 },
                 {
                     "file": "subhan_allah_behamdih.mp3",
-                    "name": "Subhan Allah wa Bihamdihi"
+                    "name": "Subhan Allah wa Bihamdihi",
+                    "size": "2.9 MB"
                 },
                 {
                     "file": "nabina_mohamed.mp3",
-                    "name": "Salawat on Prophet"
+                    "name": "Salawat on Prophet",
+                    "size": "3.2 MB"
                 },
                 {
                     "file": "hasbuna_allah.mp3",
-                    "name": "Hasbunallahu Wa Ni'mal Wakil"
+                    "name": "Hasbunallahu Wa Ni'mal Wakil",
+                    "size": "2.7 MB"
                 },
                 {
                     "file": "ya_hai_ya_kaiom.mp3",
-                    "name": "Ya Hayyu Ya Qayyum"
+                    "name": "Ya Hayyu Ya Qayyum",
+                    "size": "2.3 MB"
                 },
                 {
                     "file": "prophet.mp3",
-                    "name": "Prophet Stories (Demo)"
+                    "name": "Prophet Stories (Demo)",
+                    "size": "5.0 MB"
                 }
             ]
         },
@@ -58,11 +69,13 @@
             "items": [
                 {
                     "file": "azkar_sabah.mp3",
-                    "name": "Morning Azkar (أذكار الصباح)"
+                    "name": "Morning Azkar (أذكار الصباح)",
+                    "size": "15.4 MB"
                 },
                 {
                     "file": "azkar_masaa.mp3",
-                    "name": "Evening Azkar (أذكار المساء)"
+                    "name": "Evening Azkar (أذكار المساء)",
+                    "size": "14.8 MB"
                 }
             ]
         },
@@ -73,7 +86,8 @@
             "items": [
                 {
                     "file": "qayam_allyel.mp3",
-                    "name": "Qiyam Al-Layl (Full)"
+                    "name": "Qiyam Al-Layl (Full)",
+                    "size": "45.2 MB"
                 }
             ]
         },
