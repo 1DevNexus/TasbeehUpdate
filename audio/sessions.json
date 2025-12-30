@@ -12,6 +12,38 @@
                 {
                     "file": "alhamdulillah.mp3",
                     "name": "Alhamdulillah"
+                },
+                {
+                    "file": "allahu_akbar.mp3",
+                    "name": "Allahu Akbar"
+                },
+                {
+                    "file": "la_ilaha_illa_allah.mp3",
+                    "name": "La ilaha illa Allah"
+                },
+                {
+                    "file": "astaghfirullah.mp3",
+                    "name": "Astaghfirullah"
+                },
+                {
+                    "file": "la_hawla.mp3",
+                    "name": "La Hawla Wa La Quwwata"
+                },
+                {
+                    "file": "subhan_allah_wa_bihamdihi.mp3",
+                    "name": "Subhan Allah wa Bihamdihi"
+                },
+                {
+                    "file": "salawat.mp3",
+                    "name": "Salawat on Prophet"
+                },
+                {
+                    "file": "hasbunallahu.mp3",
+                    "name": "Hasbunallahu Wa Ni'mal Wakil"
+                },
+                {
+                    "file": "prophet.mp3",
+                    "name": "Prophet Stories (Demo)"
                 }
             ]
         },
@@ -23,6 +55,14 @@
                 {
                     "file": "whispers_of_stillness.mp3",
                     "name": "Whispers of Stillness"
+                },
+                {
+                    "file": "before_dawn.mp3",
+                    "name": "Before Dawn"
+                },
+                {
+                    "file": "heart_unburdening.mp3",
+                    "name": "Heart Unburdening"
                 }
             ]
         },
