@@ -1,6 +1,8 @@
-[
-  {
-    "version": 21,
-    "updatePriority": 0
-  }
-]
+{
+  "updates": [
+    {
+      "version": 30,
+      "priority": 5
+    }
+  ]
+}
