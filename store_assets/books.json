@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": "kids",
+      "title": "كتيبات للأطفال",
+      "items": [
+        {
+          "id": "kids_book_1",
+          "title": "كتيب رمضان للتلوين",
+          "description": "كتيب جاهز للطباعة والتلوين للاطفال عن شهر رمضان",
+          "price": 50,
+          "cover_url": "https://raw.githubusercontent.com/1devnexus/TasbeehUpdate/main/store_assets/covers/kids_1.jpg",
+          "file_url": "https://raw.githubusercontent.com/1devnexus/TasbeehUpdate/main/store_assets/pdfs/kids_1.pdf",
+          "type": "pdf"
+        }
+      ]
+    }
+  ]
+}
